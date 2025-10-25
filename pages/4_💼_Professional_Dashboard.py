@@ -267,26 +267,6 @@ with col2:
                                       st.session_state.recommendations['top_recommendation'], 'London')),
                                   key="target_city")
 
-if st.button("Compare Cost of Living", key="compare_col"):
-    from modules.financial_tools import financial_tools
-    
-    comparison = financial_tools.compare_cost_of_living(current_city, target_city, usd_salary)
-    
-    if comparison:
-        st.success(f"**Cost of Living Analysis:**")
-        
-        col1, col2, col3 = st.columns(3)
-        with col1:
-            st.metric(f"Monthly Cost in {current_city}", f"${comparison['current_monthly_col']:,}")
-            st.metric("Your Current Salary", f"${usd_salary:,.0f}")
-        with col2:
-            st.metric(f"Monthly Cost in {target_city}", f"${comparison['target_monthly_col']:,}")
-            st.metric("Equivalent Salary Needed", f"${comparison['equivalent_salary']:,.0f}")
-        with col3:
-            savings_diff = comparison['savings_difference']
-            st.metric("Annual Savings Difference", 
-                     f"${abs(savings_diff):,.0f}",
-                     delta=f"{'More' if savings_diff > 0 else 'Less'} savings")
 
 if __name__ == "__main__":
     main()
