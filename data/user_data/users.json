@@ -1,0 +1,2843 @@
+{
+    "Aditya": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "email": "adraj315@gmail.com",
+        "created_at": "2025-10-25T02:07:41.135120",
+        "preferences": {},
+        "search_history": [
+            {
+                "timestamp": "2025-10-25T22:14:02.023847",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T22:13:45.420402",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T22:12:56.074968",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T22:12:53.555578",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T22:12:34.814675",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T22:11:11.923849",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:59:53.627858",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:59:45.061072",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:59:33.434023",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:42:51.566738",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:40:54.028430",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:40:14.938172",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:39:04.740592",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:37:05.015404",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:04:00.266419",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:03:36.489873",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T21:03:03.369448",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T18:46:04.808496",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T18:45:53.380152",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T18:41:06.293911",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T18:40:17.274054",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T18:40:04.648194",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T17:53:23.378406",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T17:52:59.344613",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T17:52:49.087667",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T15:01:28.124804",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:20:11.095070",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:19:14.386383",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:12:00.787551",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:11:34.347191",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:11:16.057382",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:11:11.482553",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:07:46.313286",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:07:30.065191",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:07:11.456359",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:04:26.486499",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:01:24.133308",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:00:35.814374",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T05:00:31.039839",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T04:54:51.730884",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T04:24:22.033431",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Couple",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.48,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.48
+                            ],
+                            [
+                                "Greece",
+                                0.14
+                            ],
+                            [
+                                "USA",
+                                0.13
+                            ],
+                            [
+                                "Thailand",
+                                0.09
+                            ],
+                            [
+                                "Italy",
+                                0.05
+                            ],
+                            [
+                                "Brazil",
+                                0.04
+                            ],
+                            [
+                                "Spain",
+                                0.04
+                            ],
+                            [
+                                "France",
+                                0.03
+                            ],
+                            [
+                                "Australia",
+                                0.0
+                            ]
+                        ],
+                        "confidence": 0.48
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T04:23:03.837088",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T04:22:04.936123",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 5,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.33,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.33
+                            ],
+                            [
+                                "Italy",
+                                0.2
+                            ],
+                            [
+                                "Greece",
+                                0.11
+                            ],
+                            [
+                                "France",
+                                0.09
+                            ],
+                            [
+                                "USA",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.01
+                            ]
+                        ],
+                        "confidence": 0.33
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T04:21:34.856192",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T04:21:12.874557",
+                "data": {
+                    "type": "student",
+                    "input": {
+                        "academic_score": 80,
+                        "budget": 25000,
+                        "preferred_major": "Computer Science",
+                        "language_preference": "English",
+                        "degree_level": "Bachelor"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.22,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.22
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.13
+                            ],
+                            [
+                                "Japan",
+                                0.13
+                            ],
+                            [
+                                "Australia",
+                                0.12
+                            ],
+                            [
+                                "France",
+                                0.1
+                            ],
+                            [
+                                "Canada",
+                                0.05
+                            ],
+                            [
+                                "USA",
+                                0.05
+                            ],
+                            [
+                                "Sweden",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.22
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T02:59:02.366816",
+                "data": {
+                    "type": "professional",
+                    "input": {
+                        "experience_years": 5,
+                        "education_level": "High School",
+                        "industry": "Technology",
+                        "salary_expectation": 70000,
+                        "job_type": "Full-time",
+                        "relocation_timeline": "Immediately"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "UK",
+                        "top_probability": 0.31,
+                        "country_probabilities": [
+                            [
+                                "UK",
+                                0.31
+                            ],
+                            [
+                                "Netherlands",
+                                0.16
+                            ],
+                            [
+                                "Germany",
+                                0.14
+                            ],
+                            [
+                                "Canada",
+                                0.09
+                            ],
+                            [
+                                "Singapore",
+                                0.09
+                            ],
+                            [
+                                "Switzerland",
+                                0.06
+                            ],
+                            [
+                                "USA",
+                                0.06
+                            ],
+                            [
+                                "UAE",
+                                0.05
+                            ],
+                            [
+                                "Australia",
+                                0.04
+                            ]
+                        ],
+                        "confidence": 0.31
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T02:58:51.238549",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T02:57:34.163789",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T02:57:28.095401",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 10,
+                        "travel_companions": "Solo",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.28,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.28
+                            ],
+                            [
+                                "Greece",
+                                0.2
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "Italy",
+                                0.09
+                            ],
+                            [
+                                "Brazil",
+                                0.07
+                            ],
+                            [
+                                "Spain",
+                                0.06
+                            ],
+                            [
+                                "France",
+                                0.05
+                            ],
+                            [
+                                "Thailand",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.03
+                            ]
+                        ],
+                        "confidence": 0.28
+                    }
+                }
+            },
+            {
+                "timestamp": "2025-10-25T02:52:41.433396",
+                "data": {
+                    "type": "tourist",
+                    "input": {
+                        "budget": 3000,
+                        "travel_style": "Adventure",
+                        "climate_preference": "Tropical",
+                        "duration": 6,
+                        "travel_companions": "Couple",
+                        "season": "Spring"
+                    },
+                    "recommendations": {
+                        "top_recommendation": "Japan",
+                        "top_probability": 0.37,
+                        "destination_probabilities": [
+                            [
+                                "Japan",
+                                0.37
+                            ],
+                            [
+                                "USA",
+                                0.18
+                            ],
+                            [
+                                "France",
+                                0.14
+                            ],
+                            [
+                                "Brazil",
+                                0.1
+                            ],
+                            [
+                                "Thailand",
+                                0.09
+                            ],
+                            [
+                                "Italy",
+                                0.06
+                            ],
+                            [
+                                "Greece",
+                                0.04
+                            ],
+                            [
+                                "Australia",
+                                0.01
+                            ],
+                            [
+                                "Spain",
+                                0.01
+                            ]
+                        ],
+                        "confidence": 0.37
+                    }
+                }
+            }
+        ]
+    }
+}
