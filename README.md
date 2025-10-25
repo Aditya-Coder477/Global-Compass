@@ -8,7 +8,8 @@ Global Compass is an AI-powered platform that helps users make informed decision
 
 ## 🚀 Live Demo
 
-**Experience Global Compass:** [https://global-compass.streamlit.app/](https://global-compass.streamlit.app/)
+**Experience Global Compass:**
+https://global-path-finder.streamlit.app/
 
 ## ✨ Features
 
