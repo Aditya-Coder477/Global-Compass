@@ -39,41 +39,6 @@ def show_landing_page(auth):
     st.markdown('<h1 class="main-header">Global Compass</h1>', unsafe_allow_html=True)
     st.markdown('<p style="text-align: center; font-size: 1.2rem; color: #555;">Your intelligent guide for studying, traveling, and working abroad</p>', unsafe_allow_html=True)
     
-    # Create three columns for the main sections
-    col1, col2, col3 = st.columns(3)
-    
-    with col1:
-        st.markdown('<div class="card">', unsafe_allow_html=True)
-        st.markdown('<h2 class="sub-header">Student</h2>', unsafe_allow_html=True)
-        st.markdown('<p>Find your ideal study destination and universities based on your academic profile</p>', unsafe_allow_html=True)
-        st.markdown('<ul class="feature-list">', unsafe_allow_html=True)
-        st.markdown('<li>University Matching</li>', unsafe_allow_html=True)
-        st.markdown('<li>Visa Guidance</li>', unsafe_allow_html=True)
-        st.markdown('<li>Scholarship Info</li>', unsafe_allow_html=True)
-        st.markdown('</ul>', unsafe_allow_html=True)
-        st.markdown('</div>', unsafe_allow_html=True)
-    
-    with col2:
-        st.markdown('<div class="card">', unsafe_allow_html=True)
-        st.markdown('<h2 class="sub-header">Tourist</h2>', unsafe_allow_html=True)
-        st.markdown('<p>Discover perfect travel destinations based on your preferences and interests</p>', unsafe_allow_html=True)
-        st.markdown('<ul class="feature-list">', unsafe_allow_html=True)
-        st.markdown('<li>Destination Matching</li>', unsafe_allow_html=True)
-        st.markdown('<li>Itinerary Planning</li>', unsafe_allow_html=True)
-        st.markdown('<li>Local Experiences</li>', unsafe_allow_html=True)
-        st.markdown('</ul>', unsafe_allow_html=True)
-        st.markdown('</div>', unsafe_allow_html=True)
-    
-    with col3:
-        st.markdown('<div class="card">', unsafe_allow_html=True)
-        st.markdown('<h2 class="sub-header">Professional</h2>', unsafe_allow_html=True)
-        st.markdown('<p>Find ideal countries for career opportunities and international relocation</p>', unsafe_allow_html=True)
-        st.markdown('<ul class="feature-list">', unsafe_allow_html=True)
-        st.markdown('<li>Job Market Analysis</li>', unsafe_allow_html=True)
-        st.markdown('<li>Visa Requirements</li>', unsafe_allow_html=True)
-        st.markdown('<li>Salary Insights</li>', unsafe_allow_html=True)
-        st.markdown('</ul>', unsafe_allow_html=True)
-        st.markdown('</div>', unsafe_allow_html=True)
     
     # Login/Signup section
     st.markdown("---")
