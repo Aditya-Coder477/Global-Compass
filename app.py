@@ -89,30 +89,7 @@ def show_main_dashboard(auth):
     
     st.markdown(f'<h1 class="main-header">Welcome to Global Compass, {auth.get_current_user()}!</h1>', unsafe_allow_html=True)
     
-    # Quick access cards - ADD CHATBOT CARD
-    col1, col2, col3, col4, col5, col6 = st.columns(6)
     
-    with col1:
-        if st.button("🎓 Student Dashboard", use_container_width=True):
-            st.switch_page("Student Dashboard")
-    
-    with col2:
-        if st.button("✈️ Tourist Dashboard", use_container_width=True):
-            st.switch_page("Tourist Dashboard")
-    
-    with col3:
-        if st.button("💼 Professional Dashboard", use_container_width=True):
-            st.switch_page("Professional Dashboard")
-            
-    with col4:
-        if st.button("💰 Financial Tools", use_container_width=True):
-            st.switch_page("Financial Tools")
-    with col5:
-        if st.button("🗺️ World Maps", use_container_width=True):
-            st.switch_page("world map visualization")
-    with col6:
-        if st.button("🤖 AI Assistant", use_container_width=True):
-            st.switch_page("AI Assistant")        
             
             
 if __name__ == "__main__":
