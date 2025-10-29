@@ -2,7 +2,6 @@
 import streamlit as st
 from modules.auth import Authentication
 import base64
-from streamlit_extras.switch_page_button import switch_page
 from components.chatbot_interface import render_chatbot_interface, render_floating_chatbot
 
 # Page configuration
@@ -95,25 +94,25 @@ def show_main_dashboard(auth):
     
     with col1:
         if st.button("🎓 Student Dashboard", use_container_width=True):
-            switch_page("Student Dashboard")
+            st.switch_page("Student Dashboard")
     
     with col2:
         if st.button("✈️ Tourist Dashboard", use_container_width=True):
-            switch_page("Tourist Dashboard")
+            st.switch_page("Tourist Dashboard")
     
     with col3:
         if st.button("💼 Professional Dashboard", use_container_width=True):
-            switch_page("Professional Dashboard")
+            st.switch_page("Professional Dashboard")
             
     with col4:
         if st.button("💰 Financial Tools", use_container_width=True):
-            switch_page("Financial Tools")
+            st.switch_page("Financial Tools")
     with col5:
         if st.button("🗺️ World Maps", use_container_width=True):
-            switch_page("world map visualization")
+            st.switch_page("world map visualization")
     with col6:
         if st.button("🤖 AI Assistant", use_container_width=True):
-            switch_page("AI Assistant")        
+            st.switch_page("AI Assistant")        
             
             
 if __name__ == "__main__":
